@@ -3,9 +3,9 @@
 # Evaluación Práctica - Ingeniería de Software V
 
 ## Información del Estudiante
-- **Nombre:**
-- **Código:**
-- **Fecha:**
+- **Nombre: Ricardo Urbina Ospina**
+- **Código: A00395489**
+- **Fecha: 7 de marzo de 2025**
 
 ## Resumen de la Solución
 [Breve descripción de tu implementación]
